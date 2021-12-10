@@ -2,6 +2,9 @@ RENCANA KONTEN XOXO
 - web desainer
  * olshop
  * frelance
+ ^ coba1
+ ^ coba2
 - service
 - mobile app
 - youtube
+coba1
