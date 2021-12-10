@@ -3,3 +3,4 @@ XOXO RESOLUSI
 -Membuat platform untuk pengelolaan video
 -Membuat forum diskusi
 -Membuat web
+-Membuat youtube
